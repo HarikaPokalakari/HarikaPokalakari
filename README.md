@@ -2,8 +2,7 @@
 
 Software Quality Engineer transitioning into AI and Machine Learning.
 
-I have experience building automation frameworks, improving test coverage, and working with CI/CD pipelines in enterprise environments.  
-Currently, I am expanding my skills into AI, machine learning, and data-driven systems.
+I have experience building automation frameworks, improving test coverage, and working with CI/CD pipelines in enterprise environments. Currently, I am expanding my skills into AI, machine learning, and data-driven systems.
 
 ## Current Focus
 - Learning Machine Learning and AI concepts
